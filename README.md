@@ -20,15 +20,15 @@ USADOS QUANDO:
 
 4) transações simples.
 
-###MongoDB
+Quanto ao banco de dados utilizados nos arquivos suprapostos,MongoDB :
 
-(líder dos NoSql)
+♦ Ele é o líder dos bancos de dados do tipo NoSql
 
-Open source e orientado a documentos, ou seja, substitui a linha dos relacionais por documentos
+♦ É open source,felizmente, e orientado a documentos, ou seja, substitui-se os conceitos de linhas de tabelas, dos relacionais, por documentos
 
-(feito em c++)
+♦ É feito em c++, o que lhe confere bastante desenpenho.
 
-nomenclatura:
+Nomenclatura comparativa com base nos bancos de dados relacionais:
 
 collection = tabela
 
@@ -36,4 +36,10 @@ document = linha
 
 field = coluna
 
+<hr>
+
+Link para instalação no linux:
 [https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
+
+Link de curiosidade a respeito dos db mais utilizados:
+https://db-engines.com/en/ranking_trend
