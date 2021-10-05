@@ -1,23 +1,22 @@
 # NoSQLwithPython
 Primeiras impressões com os bancos de dados não relacionais.
 
-Um pouco de conteúdo:
 
 ## Banco de dados não relacionais (No SQL)
 
-Criados para comportar números gigantescos de dados.
+Criados, essencialmente, para comportar números gigantescos de dados.
 
-ex: hadop, mongodb, cassandra etc
+ex: hadoop, mongodb, cassandra etc
 
 USADOS QUANDO:
 
-1) fonte de dados descentralizadas (web, iot, big data)
+1) A fonte de dados é descentralizada (web, iot, big data)
 
-2) disponibilidade sem interrupções
+2) É necessário haver disponibilidade sem interrupções
 
-3) alto volume de dados
+3) Há um alto volume de dados
 
-4) transações simples.
+4) As transações são simples.
 
 Quanto ao banco de dados utilizados nos arquivos suprapostos,MongoDB :
 
